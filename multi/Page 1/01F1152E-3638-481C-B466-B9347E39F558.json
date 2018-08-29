@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "01F1152E-3638-481C-B466-B9347E39F558",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA39F02F-30E6-4873-83C5-1B0000E3B7D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD24521A-61C4-47C9-842F-20CD1F0EF029",
+    "height": 264,
+    "width": 264,
+    "x": 960,
+    "y": 1376
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle 2 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA71EC49-74F1-4D56-A37D-F3382A68C682",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C12F988E-526B-429A-8320-7B25B2D9E2BA",
+  "verticalSpacing": 0
+}
