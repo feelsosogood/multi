@@ -64,7 +64,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "Good sign",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
@@ -103,5 +103,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

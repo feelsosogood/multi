@@ -28,18 +28,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "REALLY"
+    "string": "DANG"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "0E9E20A1-DF03-4CD9-9F9C-703EC4027BB7",
+  "do_objectID": "CA1FAF04-1752-47DB-BBEF-9BA7BBA9231A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C6EC5734-B599-44C4-9BD2-10535C31EE84",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "5FE697DD-82C3-4616-A48D-033C403788AB",
     "height": 57,
-    "width": 172,
-    "x": 851,
-    "y": 577
+    "width": 134,
+    "x": 386,
+    "y": 776
   },
-  "glyphBounds": "{{3, 12}, {171, 35}}",
+  "glyphBounds": "{{3, 11}, {130, 37}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "REALLY",
+  "name": "Good sign",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,11 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D5DE8A2B-075B-4B29-BF80-CB1EADB48BD9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "24F86A80-1C14-4513-87BE-396D4093481E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,5 +107,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
