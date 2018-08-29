@@ -81,6 +81,14 @@
     {
       "class": "text",
       "id": "4EDAC40C-E221-42C5-83CC-AF5689AD5C91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E08FC383-4273-44D5-BF39-3A31945E27FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01F1152E-3638-481C-B466-B9347E39F558"
     }
   ],
   "name": "Page 1",
