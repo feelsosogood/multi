@@ -39,8 +39,16 @@
       "id": "DC6534D2-891F-40FA-8847-21637E888669"
     },
     {
+      "class": "shapeGroup",
+      "id": "1D6C3AA6-C314-4ED9-BB7E-959F12012D5A"
+    },
+    {
       "class": "text",
       "id": "CA65C3C6-F780-445A-80DE-94D384DCF743"
+    },
+    {
+      "class": "text",
+      "id": "9EF51658-4F97-49B6-AA12-A8AFA33439A7"
     }
   ],
   "name": "Page 1",
