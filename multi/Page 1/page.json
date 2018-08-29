@@ -81,6 +81,22 @@
     {
       "class": "text",
       "id": "4EDAC40C-E221-42C5-83CC-AF5689AD5C91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E940267-932A-48EA-B6AF-9BC98B32BCBE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "457A2688-B010-465F-ACE4-A68D73C7D747"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B0F8B74-4E3A-44C8-B834-E027D659FDCB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2432C752-A01B-48D5-9644-1A3033202D1D"
     }
   ],
   "name": "Page 1",
