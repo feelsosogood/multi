@@ -28,18 +28,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "I AM SURE"
+    "string": "Adding stuffs up"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "4EDAC40C-E221-42C5-83CC-AF5689AD5C91",
+  "do_objectID": "3487F8F5-E914-4B94-9800-97973A2456C3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D9B73DAF-9CF8-4D06-8993-9E5BEDEE12DC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "ACC3602B-15A6-4282-9C0E-88FE5918216F",
     "height": 57,
-    "width": 234,
-    "x": 592,
-    "y": 1214
+    "width": 348,
+    "x": 1685,
+    "y": 1114
   },
-  "glyphBounds": "{{3, 11}, {231, 37}}",
+  "glyphBounds": "{{-1, 12}, {349, 45}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "I AM SURE",
+  "name": "TRUE",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,11 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F41844D9-F2AA-42DA-B842-70DBFA2C0A59",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "6652A7F3-9AB6-404D-965F-5FA1750C22C2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -103,5 +107,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
