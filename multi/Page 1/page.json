@@ -96,11 +96,19 @@
     },
     {
       "class": "symbolInstance",
+      "id": "0CF7451C-BA22-4EDC-8668-0196B3BEEAE7"
+    },
+    {
+      "class": "symbolInstance",
       "id": "01F1152E-3638-481C-B466-B9347E39F558"
     },
     {
       "class": "symbolInstance",
       "id": "38E6A9C7-3D3F-476E-9869-A4B0BC8C1206"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BCFA6F3-C1E2-4946-816C-18738C934512"
     }
   ],
   "name": "Page 1",
