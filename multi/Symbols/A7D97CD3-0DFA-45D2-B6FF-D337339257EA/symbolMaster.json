@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "317833A4-9BE0-4585-9379-FB6174B1041D",
+    "do_objectID": "A271EE57-17BD-4689-95BB-8355F26846FA",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 82,
-  "do_objectID": "DD7055F8-88D2-4037-A7EA-383E4EF0EEAF",
+  "changeIdentifier": 63,
+  "do_objectID": "A7D97CD3-0DFA-45D2-B6FF-D337339257EA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A6DD770E-A1AE-469A-90D2-7AE2D9C75E7B",
+    "do_objectID": "ADF7D627-C6AF-481A-AF33-CA401C3D3B54",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,18 +24,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0BB302A4-F06C-432E-B11C-9360AF700A54",
+    "do_objectID": "08B932A1-68B7-49BF-B064-F89C23F32222",
     "height": 264,
     "width": 264,
-    "x": 246,
-    "y": 81
+    "x": -165,
+    "y": 656
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "7E59A300-EB47-44AF-91C5-2DA7273F440B",
+    "do_objectID": "0863BFCB-7776-4832-8FB1-A349A2A0B99F",
     "guides": [
     ]
   },
@@ -52,10 +52,10 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "F0A049DC-5BEF-41CD-927B-9F605E99CD5F"
+      "id": "0A07B000-8A23-48BB-88EF-9F7110267B46"
     }
   ],
-  "name": "Rectangle 2 Copy 2",
+  "name": "Rectangle 2",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -64,13 +64,13 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "A6C568E0-FC2B-42E1-82B5-643F17F788F2",
+    "do_objectID": "82001F90-0B6D-4259-B631-4C8F1416BF8F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C12F988E-526B-429A-8320-7B25B2D9E2BA",
+  "symbolID": "67FD2B74-10EC-4FAB-82F3-A7ABF242E09E",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
@@ -80,7 +80,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "F722153B-E7B5-4EA4-B663-C876DF8F16CA",
+    "do_objectID": "17883F10-8FCD-45D7-93C8-C34039A09223",
     "guides": [
     ]
   }
