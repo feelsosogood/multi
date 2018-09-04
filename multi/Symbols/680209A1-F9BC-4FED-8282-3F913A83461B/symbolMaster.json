@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "6AAE0342-C825-4F40-9B4F-FE1AD4D931A5",
+    "do_objectID": "EF6FA109-FAE2-42CF-91E4-C003ECEEDE6D",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 152,
-  "do_objectID": "1CF27EA9-F619-4471-BFBF-FDF469BED173",
+  "changeIdentifier": 171,
+  "do_objectID": "680209A1-F9BC-4FED-8282-3F913A83461B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BE60F334-829D-48CE-9A7F-507FE9A7994F",
+    "do_objectID": "6215830B-3BB9-459C-B83E-DB768BDEACFC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,18 +24,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "59F20539-6C03-4D45-AFE3-786FAB54A9F3",
+    "do_objectID": "FA192AA5-F734-4D5E-B8D2-45377639D3AF",
     "height": 264,
     "width": 264,
     "x": 246,
-    "y": 1272
+    "y": 1129
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "A0F8F48E-ACF2-469B-BC85-152548024004",
+    "do_objectID": "4B6CB346-4344-41C7-BAEF-67BDBD6DBAE9",
     "guides": [
     ]
   },
@@ -52,11 +52,11 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "14DC5291-DD88-47B8-AF11-F305D005B304"
+      "id": "687755E2-A2B1-4792-A89F-27EF8C54AE07"
     }
   ],
-  "name": "work_1",
-  "nameIsFixed": true,
+  "name": "Rectangle 2 Copy 4",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,13 +64,13 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "CE509F92-E764-401B-A7F3-7D6709291F5F",
+    "do_objectID": "A6AF5A8C-B6E8-49FC-8D62-33CB6EDA9DCF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E8550F3B-1864-47DA-9506-E98E6D9A1EEB",
+  "symbolID": "DFC19811-71A2-48C8-B2DE-D23C76423BA4",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
@@ -80,7 +80,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "E68B71DC-1CB1-4BA7-BFAE-1228C2815019",
+    "do_objectID": "B1BFE5D9-82D0-409A-9417-F76434F1E70E",
     "guides": [
     ]
   }

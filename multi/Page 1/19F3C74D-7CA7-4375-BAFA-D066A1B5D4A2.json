@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "1FCFE4B1-FA8A-4D2A-AF58-B91AEABEF027",
+  "do_objectID": "19F3C74D-7CA7-4375-BAFA-D066A1B5D4A2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "459E33B4-3B47-49CB-B333-1ABF333ED98B",
+    "do_objectID": "BAFC308C-13E2-4446-9ED4-4A5C69499F28",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "33BB1544-CA7E-4D54-8899-3054D99837F6",
+    "do_objectID": "FB9FF665-20AF-41A3-B1D1-6575D80D276C",
     "height": 264,
     "width": 264,
     "x": 486,
-    "y": 3098
+    "y": 2754
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "work",
-  "nameIsFixed": true,
+  "name": "Rectangle 2 Copy 2",
+  "nameIsFixed": false,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
@@ -39,13 +39,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2E535294-B988-4DFC-B8D2-377CD6B945AE",
+    "do_objectID": "E9C3C37A-000B-4132-BCDC-0EE137137AB4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B544DB3B-3684-40F0-BEDA-C27945A5E56F",
+  "symbolID": "643DED5F-9452-4433-8275-3664272572F3",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

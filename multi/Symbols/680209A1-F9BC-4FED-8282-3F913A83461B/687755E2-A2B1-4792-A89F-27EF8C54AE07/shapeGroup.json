@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0868C2CA-D2E6-43DE-BEFA-01DC3338ABE0",
+  "do_objectID": "687755E2-A2B1-4792-A89F-27EF8C54AE07",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "260A9D60-2B72-4A6F-A913-37FA8E298218",
+    "do_objectID": "C9EF90E1-FBA1-49FB-BBD9-F2C301DF4B42",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "27B60E2A-FD6E-4F94-B77F-A964AA5EBC01",
+    "do_objectID": "FBA2984D-927F-4A3D-8318-85666F8B2E33",
     "height": 264,
     "width": 264,
     "x": 0,
@@ -33,7 +33,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "B6848188-5418-434D-B6A3-D15213D202B3"
+      "id": "6A29DA83-4513-4CE2-82F9-2B773947072E"
     }
   ],
   "name": "Rectangle 2",
@@ -60,7 +60,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "3D9659DE-DCAD-4DC0-AB8C-A699ED625233",
+    "do_objectID": "C7F88362-DDEF-4B7A-8617-31C7E1857708",
     "endMarkerType": 0,
     "fills": [
       {
@@ -68,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.05022247824023079,
-          "green": 0.4712205014902324,
-          "red": 0.8882334183673469
+          "blue": 0.01991642080247402,
+          "green": 0.4596164226531982,
+          "red": 0.2557843029499054
         },
         "fillType": 0,
         "isEnabled": true,
@@ -91,13 +91,13 @@
           "aspectRatio": {
             "constant": 264,
             "enabled": 1,
-            "modelID": "constraint_7627f73a-c0e6-4e8d-a4b0-d8c002b7f317",
+            "modelID": "constraint_69fe8517-87b0-42cc-b3e6-5e21242a1d71",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
             "multiplier": 264
           },
           "automatic": 1,
-          "modelID": "viewConstraints_f8c9878d-86f8-422e-9d04-9d8c706476e4",
+          "modelID": "viewConstraints_6fe769b1-032b-4c32-8d85-90379d6ffb78",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1
