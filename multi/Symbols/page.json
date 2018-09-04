@@ -40,7 +40,15 @@
     },
     {
       "class": "symbolMaster",
+      "id": "A7D97CD3-0DFA-45D2-B6FF-D337339257EA"
+    },
+    {
+      "class": "symbolMaster",
       "id": "DD7055F8-88D2-4037-A7EA-383E4EF0EEAF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B109B8A9-FB57-428F-82DF-F3527551357D"
     }
   ],
   "name": "Symbols",

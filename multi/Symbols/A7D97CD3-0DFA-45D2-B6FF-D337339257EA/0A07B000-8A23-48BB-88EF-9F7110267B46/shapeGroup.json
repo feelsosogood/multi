@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F0A049DC-5BEF-41CD-927B-9F605E99CD5F",
+  "do_objectID": "0A07B000-8A23-48BB-88EF-9F7110267B46",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CCE57FDB-4B7C-41B5-B70A-11069FBF2770",
+    "do_objectID": "3D7EDCA1-7535-4AF0-8AF1-9E02A772DADA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "4E455D25-19A7-44E1-ACE1-FCAEF16DB913",
+    "do_objectID": "8D53E97E-9B8F-4763-9A5D-114F65503B69",
     "height": 264,
     "width": 264,
     "x": 0,
@@ -33,7 +33,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "41A94C64-BD29-426A-998F-9219128DB984"
+      "id": "36FF195A-9780-4BC2-AE40-5560080E28EF"
     }
   ],
   "name": "Rectangle 2",
@@ -60,7 +60,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "B463F394-9C54-46F5-9083-6DB7F46CDB81",
+    "do_objectID": "A6D85BF5-DE59-4C09-8447-FCAEA622E0D7",
     "endMarkerType": 0,
     "fills": [
       {
@@ -68,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3259875239158163,
-          "green": 0.9436649659863946,
-          "red": 0
+          "blue": 0.3568627450980392,
+          "green": 0.3607843137254902,
+          "red": 0.984313725490196
         },
         "fillType": 0,
         "isEnabled": true,
@@ -91,13 +91,13 @@
           "aspectRatio": {
             "constant": 264,
             "enabled": 1,
-            "modelID": "constraint_69fe8517-87b0-42cc-b3e6-5e21242a1d71",
+            "modelID": "constraint_7627f73a-c0e6-4e8d-a4b0-d8c002b7f317",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
             "multiplier": 264
           },
           "automatic": 1,
-          "modelID": "viewConstraints_6fe769b1-032b-4c32-8d85-90379d6ffb78",
+          "modelID": "viewConstraints_f8c9878d-86f8-422e-9d04-9d8c706476e4",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

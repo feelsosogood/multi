@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "317833A4-9BE0-4585-9379-FB6174B1041D",
+    "do_objectID": "9A5C9560-6480-4CDD-AB7A-AF05DA0EA60E",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 82,
-  "do_objectID": "DD7055F8-88D2-4037-A7EA-383E4EF0EEAF",
+  "changeIdentifier": 92,
+  "do_objectID": "B109B8A9-FB57-428F-82DF-F3527551357D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A6DD770E-A1AE-469A-90D2-7AE2D9C75E7B",
+    "do_objectID": "721D78CE-10B1-4739-AF28-9D0D30EB7EE0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,18 +24,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0BB302A4-F06C-432E-B11C-9360AF700A54",
+    "do_objectID": "0B49079A-F993-46D6-A020-AA0427E1700B",
     "height": 264,
     "width": 264,
     "x": 246,
-    "y": 81
+    "y": 656
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "7E59A300-EB47-44AF-91C5-2DA7273F440B",
+    "do_objectID": "5F4A39C2-3004-48BD-8966-C4EE70200FFD",
     "guides": [
     ]
   },
@@ -52,7 +52,7 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "F0A049DC-5BEF-41CD-927B-9F605E99CD5F"
+      "id": "885B0778-E5DB-48B1-A9A6-14F3AE9C1484"
     }
   ],
   "name": "Rectangle 2 Copy 2",
@@ -64,13 +64,13 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "A6C568E0-FC2B-42E1-82B5-643F17F788F2",
+    "do_objectID": "D24A3217-082A-4405-8C07-11286DDF66AA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C12F988E-526B-429A-8320-7B25B2D9E2BA",
+  "symbolID": "93D93C2D-ED19-49EF-AC11-F0DB34C83A8D",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
@@ -80,7 +80,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "F722153B-E7B5-4EA4-B663-C876DF8F16CA",
+    "do_objectID": "C3C62AB7-981E-4C5F-9A18-3A61BFC523C7",
     "guides": [
     ]
   }
