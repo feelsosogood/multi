@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "E08FC383-4273-44D5-BF39-3A31945E27FA",
+  "do_objectID": "38E6A9C7-3D3F-476E-9869-A4B0BC8C1206",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "FEEAC4D2-EF99-435A-956C-335896AF0509",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "F6336F35-EC88-4B66-B754-A0FAF4FBB32E",
     "height": 264,
     "width": 264,
-    "x": 486,
-    "y": 1376
+    "x": 960,
+    "y": 1769
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle 2",
+  "name": "Rectangle 2 Copy",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -37,6 +39,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "1C8886E5-CEEC-4B01-8E17-52EFE78711B6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

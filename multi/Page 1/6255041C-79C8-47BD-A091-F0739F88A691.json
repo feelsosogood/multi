@@ -1,9 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "E08FC383-4273-44D5-BF39-3A31945E27FA",
+  "do_objectID": "6255041C-79C8-47BD-A091-F0739F88A691",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B27CA133-18C0-4CAF-9297-2CA016AB161C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "E1E1CC56-A272-4B3C-8518-70128B99B5DB",
     "height": 264,
     "width": 264,
     "x": 486,
-    "y": 1376
+    "y": 1769
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -37,12 +39,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "453EEE11-A979-4C15-8474-CBB3235B3999",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2B049FD6-B332-4A51-8FE3-8A6EA9A03A35",
+  "symbolID": "C12F988E-526B-429A-8320-7B25B2D9E2BA",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
